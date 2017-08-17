@@ -1,5 +1,5 @@
 {
-  "name": "jspruebatravis",
+  "name": "jsproject",
   "version": "1.0.0",
   "description": "PROYECTO DE LA MATERIA JAVASCRIPT",
   "main": "index.js",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GiPaolaOrtiz/JSPruebaTravis.git"
+    "url": "git+https://github.com/PaulValle/JsProject.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GiPaolaOrtiz/JSPruebaTravis/issues"
+    "url": "https://github.com/PaulValle/JsProject/issues"
   },
-  "homepage": "https://github.com/GiPaolaOrtiz/JSPruebaTravis#readme"
+  "homepage": "https://github.com/PaulValle/JsProject#readme"
 }
