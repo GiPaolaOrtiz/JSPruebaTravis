@@ -9,7 +9,7 @@ app.use(express.static('js'));
 // ruteo
 app.get('/', function(req, res){
   res.sendfile(__dirname + '/index.html');
-});
+}
 // escuchar
 app.listen(9000);
  
