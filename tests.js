@@ -11,6 +11,4 @@ describe('DOM tests - Boton Creditos ', function () {
     it('La etiqueta titulo tiene el nombre correcto', function () {
         expect(titulo.innerHTML).to.equal('Miauhistory');
     });
-  
- 
 });
