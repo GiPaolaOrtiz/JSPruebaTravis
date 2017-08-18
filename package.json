@@ -7,7 +7,9 @@
     "express": "^4.15.4"
   },
   "devDependencies": {
-    "jshint": "^2.9.5"
+    "chai": "^4.1.1",
+    "jshint": "^2.9.5",
+    "mocha": "^3.5.0"
   },
   "scripts": {
     "test": "./node_modules/jshint/bin/jshint hello.js"
